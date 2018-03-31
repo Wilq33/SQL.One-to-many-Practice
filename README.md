@@ -1,1 +1,0 @@
-# SQL.One-to-many-Practice
